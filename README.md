@@ -61,6 +61,3 @@ python your_script.py
 - **Resource Limits**: Be mindful of AWS resource limits in your account, such as the number of VPCs or EC2 instances.
 - **Costs**: Running these resources may or may not incur AWS charges. Be sure to delete resources when no longer needed.
 
-
-![Created_aws_resources](https://github.com/user-attachments/assets/d75243fd-b4ba-49cc-a298-3e344cb68a8c)
-
